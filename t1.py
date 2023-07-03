@@ -1,0 +1,20 @@
+from turtle import *
+speed('slowest')
+fd(60)
+rt(60)
+fd(60)
+rt(60)
+fd(60)
+rt(60)
+fd(60)
+rt(60)
+fd(60)
+rt(60)
+fd(60)
+rt(60)
+fd(60)
+rt(60)
+fd(60)
+hideturtle()
+mainloop() # hold the window open
+
